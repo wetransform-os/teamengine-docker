@@ -11,3 +11,7 @@
 target/
 pom.xml.releaseBackup
 release.properties
+
+# Gradle
+.gradle/
+build/
